@@ -10,7 +10,7 @@
 - [Práctica 1](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%201)
 - [Práctica 2](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%202)
 - [Práctica 3](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%203)
-  ---
+  
 - [Práctica 4](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%204)
 - [Práctica 5](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%205)
 - [Práctica 6](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%206)
