@@ -1,6 +1,17 @@
 # Arquitectura-de-Computadoras
-- Ejercicios resueltos de Arquitectura de Computadoras (cursada en el año 2025)
+- Ejercicios resueltos de Arquitectura de Computadoras (cursada en el año 2025).
 
 ## Nombre de los archivos
-- El nombre de los archivos tiene el siguiente formato: Práctica-Parte-EjercicioInciso
-- Por ejemplo, "6-4-3b" significa: Práctica 6, parte 4, ejercicio 3, inciso b
+- El nombre de los archivos tiene el siguiente formato: Práctica-Parte-EjercicioInciso.
+- Por ejemplo, "6-4-3b" significa: Práctica 6, parte 4, ejercicio 3, inciso b.
+
+## Índice
+- [Set de instrucciones VonSim](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/main/Set%20de%20instrucciones%20del%20simulador%20VonSim.pdf)
+- [Práctica 1](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%201)
+- [Práctica 2](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%202)
+- [Práctica 3](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%203)
+- [Set de instrucciones WinMIPS64](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/main/Set%20de%20instrucciones%20del%20simulador%20WinMIPS64.pdf)
+- [Práctica 4](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%204)
+- [Práctica 5](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%205)
+- [Práctica 6](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%206)
+  
