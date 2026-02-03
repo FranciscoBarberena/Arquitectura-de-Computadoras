@@ -17,4 +17,6 @@
 ### Sets de instrucciones
 - [Set de instrucciones VonSim](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/main/Set%20de%20instrucciones%20del%20simulador%20VonSim.pdf)
 - [Set de instrucciones WinMIPS64](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/main/Set%20de%20instrucciones%20del%20simulador%20WinMIPS64.pdf)
+
+### [Resúmenes Teóricos](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Res%C3%BAmenes%20Te%C3%B3ricos)
   
