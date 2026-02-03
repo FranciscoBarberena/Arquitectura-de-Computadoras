@@ -15,8 +15,8 @@
 - [Práctica 6](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/tree/main/Pr%C3%A1ctica%206)
 
 ### Sets de instrucciones
-- [Set de instrucciones VonSim](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/main/Set%20de%20instrucciones%20del%20simulador%20VonSim.pdf](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/a2337848a396fd1b1ae4ca8cf50c87aab45a11ca/Sets%20de%20instrucciones/Set%20de%20instrucciones%20del%20simulador%20VonSim.pdf)
-- [Set de instrucciones WinMIPS64](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/main/Set%20de%20instrucciones%20del%20simulador%20WinMIPS64.pdf](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/a2337848a396fd1b1ae4ca8cf50c87aab45a11ca/Sets%20de%20instrucciones/Set%20de%20instrucciones%20del%20simulador%20WinMIPS64.pdf)
+- [Set de instrucciones VonSim](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/a2337848a396fd1b1ae4ca8cf50c87aab45a11ca/Sets%20de%20instrucciones/Set%20de%20instrucciones%20del%20simulador%20VonSim.pdf)
+- [Set de instrucciones WinMIPS64](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/a2337848a396fd1b1ae4ca8cf50c87aab45a11ca/Sets%20de%20instrucciones/Set%20de%20instrucciones%20del%20simulador%20WinMIPS64.pdf)
 
 ### Resúmenes Teóricos
 - [Memoria Caché](https://github.com/FranciscoBarberena/Arquitectura-de-Computadoras/blob/main/Res%C3%BAmenes%20Te%C3%B3ricos/Resumen%20de%20Memoria%20Cach%C3%A9.pdf)
