@@ -1,0 +1,34 @@
+pa equ 30h
+pb equ 31h
+ca equ 32h
+cb equ 33h
+
+org 1000h
+mensaje db "GANASTE"
+patron db 11111010b
+
+org 1500h
+ini_pio:
+  push ax
+  mov al, 0h
+  out cb, al
+  mov al, 0FFh
+  out ca,al
+  pop ax
+  ret
+
+org 2000h
+call ini_pio
+loop: 
+  in al,pa
+  mov dl, al
+  xor al,patron
+  not al
+  out pb,al
+  cmp dl, patron
+  jnz loop
+mov bx, offset mensaje
+mov al, offset patron - offset mensaje
+int 7
+int 0
+end
